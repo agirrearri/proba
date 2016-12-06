@@ -6,3 +6,5 @@ masterrak gehitua
 berriro ere masterrak
 
 pastelak gehitua
+
+forkean pastelak gehitua
