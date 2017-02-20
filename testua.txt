@@ -20,3 +20,5 @@ localean enautirakaslek
 Agirrearrik berriro githuben
 
 Enautirakasle sahiatzen eta agirrearri egiten
+
+azkeak ematen agirrearri githuben
