@@ -24,3 +24,5 @@ Enautirakasle sahiatzen eta agirrearri egiten
 Enaut irakasle tope lanean
 
 azkeak ematen agirrearri githuben
+
+agirrearrik orain bai azkena!
