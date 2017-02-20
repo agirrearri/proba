@@ -16,3 +16,7 @@ hau san inazion egin da eta enautirakasleren izenean igoko da
 zuzenean commmit hau githuben egin du agirrearrik
 
 localean enautirakaslek
+
+Agirrearrik berriro githuben
+
+Enautirakasle sahiatzen eta agirrearri egiten
