@@ -10,3 +10,5 @@ agirrearriren izenean aldaketak egiten sahiatuko nahiz
 pastelak gehitua (buga konpondu forkean pastelak)
 
 forkean pastelak gehitua
+
+zuzenean commmit hau githuben egin du agirrearrik
