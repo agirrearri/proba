@@ -12,3 +12,5 @@ pastelak gehitua (buga konpondu forkean pastelak)
 forkean pastelak gehitua
 
 hau san inazion egin da eta enautirakasleren izenean igoko da
+
+zuzenean commmit hau githuben egin du agirrearrik
