@@ -5,6 +5,8 @@ ikaslea 2k beste aldaketa bat
 masterrak gehitua
 berriro ere masterrak
 
+agirrearriren izenean aldaketak egiten sahiatuko nahiz
+
 pastelak gehitua (buga konpondu forkean pastelak)
 
 forkean pastelak gehitua
