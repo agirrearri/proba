@@ -38,3 +38,5 @@ azkeak ematen agirrearri githuben
 azken hurrena ote irakslek
 
 agirrearrik orain bai azkena!
+
+enautirakaslek forkean githuben
