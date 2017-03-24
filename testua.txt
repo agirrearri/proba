@@ -50,3 +50,5 @@ nagusian azkena edo
 adarrean aurrera doa enaut irakasle
 
 eta beste aldaketa batzuk adarrean
+
+developen goaz
