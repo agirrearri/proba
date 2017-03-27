@@ -56,3 +56,4 @@ developen goaz
 batuketa egin da, eta ondo rebisatuta
 
 develop bat
+enautirakaslek githuben
